@@ -16,6 +16,8 @@ from bs4 import BeautifulSoup
 
 SITES = [
     # TODO: the two Inno Wing sites you were given
+    "https://innowings.engg.hku.hk",
+    "https://innoacademy.engg.hku.hk",
 ]
 
 
@@ -41,7 +43,10 @@ def crawl(start_url: str, max_pages: int = 500) -> list[str]:
         #     link = urljoin(url, a["href"]).split("#")[0]
         #     if urlparse(link).netloc == domain and link not in seen:
         #         queue.append(link)
-
+        for a in BeautifulSoup(html, "html.parser").select("a[href]"):
+            link = urljoin(url, a["href"]).split("#")[0]
+            if urlparse(link).netloc == domain and link not in seen:
+                queue.append(link)
     return out
 
 
@@ -58,7 +63,7 @@ def extract(html: str, url: str) -> dict:
 
     # TODO replace this with the element that holds the content, e.g.
     # TODO soup.select_one("main") or soup.select_one("#content")
-    body = soup
+    body = soup.select_one("#content")
 
     images = []
     for img in soup.select("img"):
