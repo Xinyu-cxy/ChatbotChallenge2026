@@ -16,13 +16,8 @@
  },
  {
   "level": 2,
-  "question": "What is the capacity of Makerspace A?",
-  "answer": "40"
- },
- {
-  "level": 2,
-  "question": "When was the deadline for the first round of the Funding Scheme in 2025?",
-  "answer": "17 October 2025"
+  "question": "When was the deadline for the second round of the Funding Scheme in 2025-26?",
+  "answer": "27 February 2026"
  },
  {
   "level": 2,
@@ -31,18 +26,8 @@
  },
  {
   "level": 3,
-  "question": "What three words are written on the wall behind the brainstorming area?",
-  "answer": "Make Test Share"
- },
- {
-  "level": 3,
-  "question": "Which teams won the Innovation Awards in 2025?",
-  "answer": "Tidewatch, Loomstack and Pathfinder"
- },
- {
-  "level": 3,
-  "question": "How many tables are shown in the photograph of Makerspace A?",
-  "answer": "11"
+  "question": "What were the winning teams in Pitch New Tech Ideas in 2025?",
+  "answer": "Smartsocks, Digitio, Gingtrolley"
  },
  {
   "level": 4,
@@ -51,27 +36,13 @@
  },
  {
   "level": 4,
-  "question": "How many venues have a stated capacity of 30 or more?",
-  "answer": "2"
+  "question": "How many workshop posters are on the Innovation Academy websites for 2025?",
+  "answer": "31"
  },
- {
-  "level": 4,
-  "question": "Which requires the longer induction, the laser cutter or the 3D printers?",
-  "answer": "The laser cutter"
- },
+
  {
   "level": 5,
-  "question": "What colour are the tool lockers along the east wall of Makerspace A?",
-  "answer": "Blue"
- },
- {
-  "level": 5,
-  "question": "What is printed on the sign above the print room door?",
-  "answer": "INDUCTION REQUIRED"
- },
- {
-  "level": 5,
-  "question": "How many fire extinguishers are in the machine room?",
-  "answer": "2"
+  "question": "On the wall at the back of the brainstorming area, there are three words. HKU, Engineering, and...?",
+  "answer": "Innovation"
  }
 ]
