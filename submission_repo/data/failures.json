@@ -1,0 +1,296 @@
+{
+ "https://s.w.org/images/core/emoji/13.0.1/svg/1f642.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://s.w.org/images/core/emoji/13.0.1/svg/1f60a.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://s.w.org/images/core/emoji/14.0.0/svg/1f383.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://s.w.org/images/core/emoji/14.0.0/svg/1f47b.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://s.w.org/images/core/emoji/14.0.0/svg/1f6e0.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://s.w.org/images/core/emoji/14.0.0/svg/1f31f.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://s.w.org/images/core/emoji/14.0.0/svg/1f916.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2025/03/1-Raissa-Yeung.svg": {
+  "attempts": 3,
+  "permanent": true,
+  "error": "unsupported format (svg)",
+  "time": "2026-10-18T07:21:43+00:00"
+ },
+ "https://innowing.hk/wp-content/uploads/2020/05/Mr-Tam-Wing-Fan-1.jpg": {
+  "attempts": 3,
+  "permanent": false,
+  "error": "ConnectionError: HTTPSConnectionPool(host='innowing.hk', port=443): Max retries exceeded with url: /wp-content/uploads/2020/05/Mr-Tam-Wing-Fan-1.jpg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002804943A4E0>: Failed to resolve 'innowing.hk' ([Errno 11001] getad",
+  "time": "2026-10-18T06:59:28+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/08/fig1.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/08/fig1.png",
+  "time": "2026-10-16T12:11:45+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2026/09/Deng-Sili-2058.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2026/09/Deng-Sili-2058.jpg",
+  "time": "2026-10-16T12:11:45+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2023/03/hku-0329.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2023/03/hku-0329.png",
+  "time": "2026-10-16T12:42:15+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2023/03/nonhku-0329.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2023/03/nonhku-0329.png",
+  "time": "2026-10-16T12:42:15+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2022/06/Poster.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "BadRequestError: data: {\"error\":{\"code\":\"invalid_parameter_error\",\"param\":null,\"message\":\"Download multimodal file timed out\",\"type\":\"invalid_request_error\"},\"id\":\"chatcmpl-ab7e6e8b-5518-474b-bcbc-fbc3cf22a6d1\"}",
+  "time": "2026-10-16T13:33:56+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/08/hku-2.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/08/hku-2.png",
+  "time": "2026-10-16T13:49:56+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/08/non-2.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/08/non-2.png",
+  "time": "2026-10-16T13:49:56+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/08/hku.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/08/hku.png",
+  "time": "2026-10-16T13:51:41+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/05/Picture2-1.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (11956938 bytes)",
+  "time": "2026-10-16T13:53:59+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Picture4.jpeg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2023/08/Picture4.jpeg",
+  "time": "2026-10-16T14:02:27+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2023/11/hku-1127.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2023/11/hku-1127.png",
+  "time": "2026-10-16T15:08:32+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2023/11/nonhku-1127.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2023/11/nonhku-1127.png",
+  "time": "2026-10-16T15:08:33+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/07/DSC08401-1-scaled.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/07/DSC08401-1-scaled.jpg",
+  "time": "2026-10-16T15:34:45+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/07/A7400677-scaled.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/07/A7400677-scaled.jpg",
+  "time": "2026-10-16T15:34:46+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2024/07/Collection-of-Poster-Materials_Project-No.18_Photo2-scaled.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innowings.engg.hku.hk/wp-content/uploads/2024/07/Collection-of-Poster-Materials_Project-No.18_Photo2-scaled.jpg",
+  "time": "2026-10-16T15:34:46+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2021/12/poster_v2-02.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "BadRequestError: data: {\"error\":{\"code\":\"invalid_parameter_error\",\"param\":null,\"message\":\"The image format is illegal and cannot be opened\",\"type\":\"invalid_request_error\"},\"id\":\"chatcmpl-3d448ce5-a240-4f6f-a2eb-e858b9c68513\"}",
+  "time": "2026-10-16T16:12:19+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2021/12/Figure-2.-Filter-photo-and-SEM-image.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "BadRequestError: data: {\"error\":{\"code\":\"invalid_parameter_error\",\"param\":null,\"message\":\"The image format is illegal and cannot be opened\",\"type\":\"invalid_request_error\"},\"id\":\"chatcmpl-8df7025a-7e87-4271-afce-76b6b2d10229\"}",
+  "time": "2026-10-16T16:18:04+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/06/Automatic-Fabric-Roll-Edge-Extractor-image-cover.jpeg": {
+  "attempts": 3,
+  "permanent": false,
+  "error": "APIError: Output data may contain inappropriate content.",
+  "time": "2026-10-18T06:59:55+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/08/2023-2024_SIG-September-Calender.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2023/08/2023-2024_SIG-September-Calender.png",
+  "time": "2026-10-16T18:24:07+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/20210929_Sharing-by-Robotic-Student-Teams_v4.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/20210929_Sharing-by-Robotic-Student-Teams_v4.jpg",
+  "time": "2026-10-16T18:26:22+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/10/20211027_Mindfulness-Workshop_v2.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2021/10/20211027_Mindfulness-Workshop_v2.png",
+  "time": "2026-10-16T18:29:41+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/06/20220618_Sandbox.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2022/06/20220618_Sandbox.jpg",
+  "time": "2026-10-16T18:30:49+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/04/20220427_Zhang-Shiming-1.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2022/04/20220427_Zhang-Shiming-1.jpg",
+  "time": "2026-10-16T18:31:58+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20231006_Sharing-by-Timothy-1.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2023/09/20231006_Sharing-by-Timothy-1.png",
+  "time": "2026-10-16T18:35:56+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/09/20221005_Rex-Sham_Poster-1-1.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2022/09/20221005_Rex-Sham_Poster-1-1.png",
+  "time": "2026-10-16T18:36:40+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/2021_Pitching-for-TPg_Poster-scaled.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/2021_Pitching-for-TPg_Poster-scaled.jpg",
+  "time": "2026-10-16T18:40:57+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/20210929_SIG_Poster_v3-scaled.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2021/09/20210929_SIG_Poster_v3-scaled.jpg",
+  "time": "2026-10-16T18:44:03+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2021/12/21.PERfECT-Wearables-A-Coin-sized-Platform-for-Health-Innovation-2.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "BadRequestError: data: {\"error\":{\"code\":\"invalid_parameter_error\",\"param\":null,\"message\":\"Download multimodal file timed out\",\"type\":\"invalid_request_error\"},\"id\":\"chatcmpl-f14cfe37-7bf4-4cb6-ac03-3db538a2e7fa\"}",
+  "time": "2026-10-16T19:54:48+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/breed-poster-2-Muhammad-Saad-Shahid-Anwel.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (11653763 bytes)",
+  "time": "2026-10-16T22:41:01+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/App-5_A0-Poster-InnoShow-Sheung-Ching-Yim-1.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (12190788 bytes)",
+  "time": "2026-10-16T22:50:56+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/Cover-Image-InnoShow-min-Sheung-Ching-Yim.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2020/11/Cover-Image-InnoShow-min-Sheung-Ching-Yim.jpg",
+  "time": "2026-10-16T22:50:57+00:00"
+ },
+ "https://innowings.engg.hku.hk/wp-content/uploads/2020/11/Fig1.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "BadRequestError: data: {\"error\":{\"code\":\"invalid_parameter_error\",\"param\":null,\"message\":\"Download multimodal file timed out\",\"type\":\"invalid_request_error\"},\"id\":\"chatcmpl-ee7b7f85-e534-4e72-bb65-8d5ddce475a2\"}",
+  "time": "2026-10-17T13:45:38+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/04/01.-Design-Build-and-Fly-Team-2023-Poster.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (27198089 bytes)",
+  "time": "2026-10-17T13:51:07+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2024/09/IW-Showcase-Series-02-Intelligent-Robot-and-IoT-resized.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://innoacademy.engg.hku.hk/wp-content/uploads/2024/09/IW-Showcase-Series-02-Intelligent-Robot-and-IoT-resized.png",
+  "time": "2026-10-17T13:56:16+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/04/07.-LEAPSlocal-environment-alliance-project-series-Poster.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (23718533 bytes)",
+  "time": "2026-10-17T14:18:03+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2023/05/02.-Scavenger-01_Automatic-ping-pong-collector-PosterPNG.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (64532499 bytes)",
+  "time": "2026-10-17T14:18:19+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/14.-HKU-Robocon-2022-A1-Poster-V2.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (24669146 bytes)",
+  "time": "2026-10-17T14:29:10+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/11/13.-Designing-solutions-for-construction-workers-against-global-warming-A1-Poster.jpg": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (64602958 bytes)",
+  "time": "2026-10-17T14:31:42+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/04.-Design-and-Build-an-Intraocular-Pressure-Controllable-Gadget-Poster-King-Ting-CHEUNG.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "image too large (25472238 bytes)",
+  "time": "2026-10-17T15:05:52+00:00"
+ },
+ "https://innoacademy.engg.hku.hk/wp-content/uploads/2022/05/20.-Cellsverse-Poster-Nathan-Hugo-WOO.png": {
+  "attempts": 1,
+  "permanent": true,
+  "error": "BadRequestError: data: {\"error\":{\"code\":\"invalid_parameter_error\",\"param\":null,\"message\":\"Download multimodal file timed out\",\"type\":\"invalid_request_error\"},\"id\":\"chatcmpl-f4fa9030-5ae1-4d0a-a1fd-d2b47c6162a2\"}",
+  "time": "2026-10-17T15:11:30+00:00"
+ }
+}

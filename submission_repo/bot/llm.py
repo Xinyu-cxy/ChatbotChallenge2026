@@ -6,6 +6,8 @@ client can only ever talk to one deployment.
 
 Reads settings from the environment. Copy .env.example to .env and
 fill in the values you were given.
+
+functions that interact with llm directly, used in embedding, describing images and answering
 """
 import base64
 import mimetypes
@@ -100,10 +102,23 @@ def describe_image(image_path: str, prompt: str) -> str:
     mime = mimetypes.guess_type(path.name)[0] or "image/jpeg"
     b64 = base64.b64encode(path.read_bytes()).decode()
     r = _client(VISION_URL).chat.completions.create(
-        model=VISION_DEPLOYMENT, max_tokens=800,
+        # 解决生成失败：将tocken额度提高
+        model=VISION_DEPLOYMENT, max_completion_tokens=10000,
         messages=[{"role": "user", "content": [
             {"type": "text", "text": prompt},
             {"type": "image_url", "image_url": {"url": f"data:{mime};base64,{b64}"}},
         ]}],
     )
-    return r.choices[0].message.content or ""
+    # 返回结果为空时报错
+    if not r.choices:
+        raise RuntimeError("Vision API returned no choices.")
+    # r.choices: 大模型返回多个可供选择的答案，选择最靠前的那个
+    choice = r.choices[0]
+    content = choice.message.content
+    if not content or not content.strip():
+        raise RuntimeError(
+            "Vision API returned no description "
+            f"(finish_reason={choice.finish_reason!r}, "
+            f"refusal={choice.message.refusal!r}, usage={r.usage!r})."
+        )
+    return content.strip()
